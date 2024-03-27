@@ -18,7 +18,7 @@ export function App() {
   }
   return(
     <div>
-      <h1>codeWithtauseef</h1>
+      <h1>codewithtauseef</h1>
       <h2>Counting Number: {counter}</h2>
       <button onClick={increaseNumber}>Increase Number</button>
       <button onClick={decreaseNumber}>Decrease Number</button>
